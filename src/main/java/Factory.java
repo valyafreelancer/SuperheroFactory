@@ -1,4 +1,4 @@
-
+import Superheroes.*;
 
 public class Factory {
 
@@ -46,7 +46,7 @@ public class Factory {
         SuperMan superMan = new SuperMan();
         superMan.setName("Кларк Кент");
         superMan.setLabel(Label.DC);
-        superMan.setForce(9);
+        superMan.setForce(10);
         superMan.setSuperpower("Непробиваемость, суперсила, самоисцилени, супервыносливость");
 
         return superMan;
@@ -56,7 +56,7 @@ public class Factory {
         Wolverine wolverine = new Wolverine();
         wolverine.setName("Кларк Кент");
         wolverine.setLabel(Label.DC);
-        wolverine.setForce(9);
+        wolverine.setForce(8);
         wolverine.setSuperpower("Непробиваемость, суперсила, самоисцилени, супервыносливость");
 
         return wolverine;

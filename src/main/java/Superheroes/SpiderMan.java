@@ -1,36 +1,33 @@
+package Superheroes;
 
-public class BatMan {
+public class SpiderMan {
 
     private String name;
     private int force;
     private String superpower;
     private Label label;
 
-    public String getName () {
+    public String getName() {
         return name;
     }
 
     public void setName(String name) {
-
         this.name = name;
     }
 
-    public int getForce () {
-
+    public int getForce() {
         return force;
     }
 
     public void setForce(int force) {
-
         this.force = force;
     }
 
-    public String getSuperpower () {
+    public String getSuperpower() {
         return superpower;
     }
 
     public void setSuperpower(String superpower) {
-
         this.superpower = superpower;
     }
 
@@ -39,8 +36,6 @@ public class BatMan {
     }
 
     public void setLabel(Label label) {
-
         this.label = label;
     }
-
 }

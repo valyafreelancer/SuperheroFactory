@@ -1,7 +1,9 @@
+package Superheroes;
+
 import lombok.Data;
 
 @Data
-public class SuperMan {
+public class Hulk {
     private String name;
     private int force;
     private String superpower;

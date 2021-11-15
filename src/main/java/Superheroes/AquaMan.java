@@ -1,9 +1,14 @@
+package Superheroes;
+
 import lombok.Data;
 
 @Data
-public class Wolverine {
+public class AquaMan {
     private String name;
     private int force;
     private String superpower;
     private Label label;
+
 }
+
+

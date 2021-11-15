@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fb8463f-62ad-4772-b4f9-422f3ce762ab" name="Changes" comment="супергерой">
+      <change beforePath="$PROJECT_DIR$/src/main/java/AquaMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/AquaMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BatMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/BatMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hulk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/Hulk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpiderMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/SpiderMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SuperMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/SuperMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Wolverine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superheroes/Wolverine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20nsx5SXaDQ1l5b5PEyaoEsdyDP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/.gitignore" />
+  </component>
+  <component name="RunManager" selected="Application.Arena">
+    <configuration name="Arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arena" />
+      <module name="Superheroes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Superheroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Superheroes" />
+      <module name="Superheroes" />
+      <option name="PROGRAM_PARAMETERS" value="Бэтмен Супермен Аквамен Рассамаха Халк Человек-паук" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Superheroes" />
+      <item itemvalue="Application.Arena" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Arena" />
+        <item itemvalue="Application.Superheroes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb8463f-62ad-4772-b4f9-422f3ce762ab" name="Changes" comment="" />
+      <created>1636691931417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636691931417</updated>
+    </task>
+    <task id="LOCAL-00001" summary="q">
+      <created>1636695529445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636695529445</updated>
+    </task>
+    <task id="LOCAL-00002" summary="qafff">
+      <created>1636709058328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636709058328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ddd">
+      <created>1636889732398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636889732398</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ваорвларо">
+      <created>1636939910905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636939910905</updated>
+    </task>
+    <task id="LOCAL-00005" summary="супергерой">
+      <created>1636940107483</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636940107483</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q" />
+    <MESSAGE value="qafff" />
+    <MESSAGE value="ddd" />
+    <MESSAGE value="ваорвларо" />
+    <MESSAGE value="супергерой" />
+    <option name="LAST_COMMIT_MESSAGE" value="супергерой" />
+  </component>
+</project>

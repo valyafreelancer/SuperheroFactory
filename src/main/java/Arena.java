@@ -1,3 +1,5 @@
+import Superheroes.*;
+
 import java.util.Set;
 
 
@@ -6,7 +8,7 @@ import java.util.Set;
  */
 
 public class Arena {
-    public static final Set<String> superheroes = Set.of(
+    public static final Set<String> SUPERHEROES = Set.of(
             "Бэтмен",
             "Человек-паук",
             "Аквамен",
