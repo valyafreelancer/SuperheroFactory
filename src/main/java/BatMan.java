@@ -11,14 +11,17 @@ public class BatMan {
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
     public int getForce () {
-      return force;
+
+        return force;
     }
 
     public void setForce(int force) {
+
         this.force = force;
     }
 
@@ -27,6 +30,7 @@ public class BatMan {
     }
 
     public void setSuperpower(String superpower) {
+
         this.superpower = superpower;
     }
 
@@ -35,6 +39,7 @@ public class BatMan {
     }
 
     public void setLabel(Label label) {
+
         this.label = label;
     }
 
