@@ -7,7 +7,7 @@ public class Factory {
         batMan.setName("Брюс Уэйн");
         batMan.setLabel(Label.DC);
         batMan.setForce(5);
-        batMan.setSuperpower(" Боевые искусства");
+        batMan.setSuperpower("Боевые искусства");
 
         return batMan;
     }
@@ -17,7 +17,7 @@ public class Factory {
         spiderMan.setName("Питер Паркер");
         spiderMan.setLabel(Label.MARVEL);
         spiderMan.setForce(6);
-        spiderMan.setSuperpower("Ночное видение, ловкость, регенерация");
+        spiderMan.setSuperpower("Ловкость");
 
         return spiderMan;
 
@@ -28,7 +28,7 @@ public class Factory {
         aquaMan.setName("Артур Карри");
         aquaMan.setLabel(Label.DC);
         aquaMan.setForce(7);
-        aquaMan.setSuperpower("Ночное видение, ловкость, регенерация");
+        aquaMan.setSuperpower("Дыхание под водой");
 
         return aquaMan;
     }
@@ -37,7 +37,7 @@ public class Factory {
         hulk.setName("Брюс Беннер");
         hulk.setLabel(Label.MARVEL);
         hulk.setForce(9);
-        hulk.setSuperpower("Суперскорость, бессмертие, суперсила");
+        hulk.setSuperpower("Суперскорость");
 
         return hulk;
     }
@@ -47,17 +47,17 @@ public class Factory {
         superMan.setName("Кларк Кент");
         superMan.setLabel(Label.DC);
         superMan.setForce(10);
-        superMan.setSuperpower("Непробиваемость, суперсила, самоисцилени, супервыносливость");
+        superMan.setSuperpower("Непробиваемость");
 
         return superMan;
     }
 
     public Wolverine createWolverine() {
         Wolverine wolverine = new Wolverine();
-        wolverine.setName("Кларк Кент");
-        wolverine.setLabel(Label.DC);
+        wolverine.setName("Логан");
+        wolverine.setLabel(Label.MARVEL);
         wolverine.setForce(8);
-        wolverine.setSuperpower("Непробиваемость, суперсила, самоисцилени, супервыносливость");
+        wolverine.setSuperpower("Регенерация");
 
         return wolverine;
     }

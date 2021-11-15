@@ -1,11 +1,5 @@
 package Superheroes;
 
-import lombok.Data;
+public class Hulk extends Superhero {
 
-@Data
-public class Hulk {
-    private String name;
-    private int force;
-    private String superpower;
-    private Label label;
 }
